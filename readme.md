@@ -39,4 +39,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB by Rocketseat 
+:wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
